@@ -1,6 +1,8 @@
 import Vue from 'vue'
 import Router from 'vue-router'
+
 import LoginView from '@/views/login/Common'
+
 import HomePageView from '@/views/HomePage'
 import db from 'utils/localstorage'
 import request from 'utils/request'
